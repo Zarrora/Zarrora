@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zarrora
 - 👀 I’m interested in Blokchain and Web3
 - 🌱 I’m currently learning Blokchain
-<img src="https://giphy.com/gifs/monstercat-edm-electronic-music-3o72F7RrTPW6jymXew" width="400" height="250">
+
 
 
 
