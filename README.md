@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blokchain and Web3
 - 🌱 I’m currently learning Blokchain
 
-<img src="https://marketingweek.imgix.net/content/uploads/2017/05/12103940/Coding-featured.jpg" width="auto">
+<img src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e476m5p50xpud73sw4o0ergs06sgk7xc6gjyr24joq3&rid=giphy.gif&ct=g" width="auto">
 
 
 <!---
